@@ -1,0 +1,44 @@
+{
+  "created": "2026-10-13",
+  "topic": "小智AI ESP32S3开发板+面包板DIY模块购买大全与 Personal Agent 硬件形态",
+  "source_doc": "https://vi8r050ecuz.feishu.cn/docx/Kta5djl26o9iX8x5SM4cWs8Znud?from=from_copylink",
+  "brand_system": "清醒蓝图 & xiaowei-visual",
+  "variants": [
+    {
+      "id": "variant-01-hardware-diy-3x4",
+      "ratio": "3:4",
+      "dimensions": [1080, 1440],
+      "file": "covers/variant-01-hardware-diy-3x4.png",
+      "review_thumb": "review/thumb-v1-360.png",
+      "theme": "小红书避坑购买大全",
+      "person_presence": "xiaowei-speaking-photo"
+    },
+    {
+      "id": "variant-02-agent-upgrades-3x4",
+      "ratio": "3:4",
+      "dimensions": [1080, 1440],
+      "file": "covers/variant-02-agent-upgrades-3x4.png",
+      "review_thumb": "review/thumb-v2-360.png",
+      "theme": "Personal Agent 具身进阶选件与玩法",
+      "person_presence": "xiaowei-speaking-photo"
+    },
+    {
+      "id": "variant-03-video-field-16x9",
+      "ratio": "16:9",
+      "dimensions": [1280, 720],
+      "file": "covers/variant-03-video-field-16x9.png",
+      "review_thumb": "review/thumb-v3-360.png",
+      "theme": "B站/视频横版实战封面",
+      "person_presence": "xiaowei-discussion-photo"
+    },
+    {
+      "id": "variant-04-chibi-visual-3x4",
+      "ratio": "3:4",
+      "dimensions": [1080, 1440],
+      "file": "covers/variant-04-chibi-visual-3x4.png",
+      "review_thumb": "review/thumb-v4-360.png",
+      "theme": "Q版小伟IP进化论概念封面",
+      "person_presence": "xiaowei-chibi-cartoon"
+    }
+  ]
+}
